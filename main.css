@@ -1,0 +1,67 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: teal;
+    border: border: 2px solid teal;
+    padding: 10px 20px;
+    background-color: white;
+}
+.nav {
+    display: inline;
+    letter-spacing: 5px;
+    color: white;
+}
+#navi{
+    position: fixed;
+    background-color: white;
+}
+footer {
+    display: inline;
+    color:red;
+    border: 2px solid green;
+    padding: 10px 20px;
+    background-color: white;
+}
+a:link {
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px 20px;
+}
+a:hover {
+  color:tomato;
+  border: 2px solid green;
+  padding: 10px 20px;
+  background-color: mediumspringgreen;
+}
+#gallery{
+      font-size: 100px;
+      text-transform:uppercase;
+      color: tomato;
+      letter-spacing: :5px;
+}
+#mee{
+    color: tomato;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 100px;
+}
+body{
+  background-color: BlanchedAlmond ;
+}
+p{
+  color: LightSlateGray;
+  text-align: justify;
+  display: inline-block;
+  font-size: 20px;
+}
+#pi{
+    float: left;
+    resize: 50px;
+}
+.sections{
+      border: 2px solid palegreen;
+      padding: 10px 20px;
+      background-color:mediumspringgreen;
+}
